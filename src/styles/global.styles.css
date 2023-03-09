@@ -1,0 +1,4 @@
+body :global(body){
+    display: flex;
+	background-color: lightslategray;
+}
